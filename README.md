@@ -1,3 +1,3 @@
 # LethalMaus
 
-[![Twitch](https://lethalmaus.github.io/LethalMaus/Twitch%20Graphics/twitch.png =320x)](https://www.twitch.tv/lethalmaus)
+[![Twitch](<img src="https://lethalmaus.github.io/LethalMaus/Twitch%20Graphics/twitch.png" width="320">)](https://www.twitch.tv/lethalmaus)
